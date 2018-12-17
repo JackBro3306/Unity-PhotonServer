@@ -1,0 +1,9 @@
+G:\CSharpWorkSpace\001\MyGameServer\bin\Debug\MyGameServer.dll
+G:\CSharpWorkSpace\001\MyGameServer\bin\Debug\MyGameServer.pdb
+D:\photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameService\bin\hibernate.cfg.xml
+D:\photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameService\bin\log4net.config
+D:\photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameService\bin\MyGameServer.dll
+D:\photon\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameService\bin\MyGameServer.pdb
+G:\CSharpWorkSpace\001\MyGameServer\obj\Debug\MyGameServer.csprojResolveAssemblyReference.cache
+G:\CSharpWorkSpace\001\MyGameServer\obj\Debug\MyGameServer.dll
+G:\CSharpWorkSpace\001\MyGameServer\obj\Debug\MyGameServer.pdb

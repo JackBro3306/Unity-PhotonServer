@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="MyGameServer"
+                   namespace="MyGameServer.Model">
+	<!--assembly= NHibernate 这是程序集的名称  namespace 是指Test在哪个命名空间下的   -->
+
+	<class name="UserInfo" table="userinfo">
+		<id name="Id" column="id" type="Int32">
+			<generator class="native"></generator>
+			<!--nativ 是本地 使用数据库自带的生成器-->
+		</id>
+		<property name="Username" column ="username" type="String" ></property>
+		<property name="Password" column ="password" type="String" ></property>
+		<property name="RegistDate" column ="registDate" type="DateTime" ></property>
+		
+	</class>
+
+</hibernate-mapping>
